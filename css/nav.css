@@ -1,0 +1,36 @@
+/* Navigation bar */
+
+nav {
+  display: flex;
+  background-color: #ff6600;
+  align-items: center;
+  padding: 5px 20px;
+  border-radius: 3px 3px 0 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 0.85rem;
+  margin: 0 3px;
+}
+
+.nav-right {
+  margin-left: auto;
+  text-align: right;
+}
+
+#openNewStoryForm {
+  margin-left: 5px;
+  padding-right: 10px;
+  border-right: 1px solid black;
+}
+
+#favoritesBtn {
+  padding-right: 10px;
+  border-right: 1px solid black;
+}
+
+
